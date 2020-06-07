@@ -1,0 +1,179 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html><head><title>Ilker Demirkol</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" media="screen" href="ilker.css"></head>
+
+<body>
+
+<!-- left panel -->
+<div style="width: 281px;" id="info">
+<h1 id="name">ilker demirkol<br>
+</h1>
+<p>Postdoctoral Research Associate<br>
+<a href="http://www.entel.upc.edu/?set_language=en">Department of
+Telematics Eng.</a> <br>
+<a href="http://www.upc.edu/">Univ. Politecnica de Catalunia</a></p>
+<p style="font-style: italic;"><a href="http://wireless.upc.edu/en/index.html">Wireless Networking
+Group</a>
+</p>
+<p><br>
+</p>
+<h2>Contact</h2>
+<p>c/ Jordi Girona 1-3, Modul C3 <br>
+Barcelona, Catalunya, Spain, 08034<br>
+Tel: +34 93 4011055<br>
+
+Fax: +34 93 4011058<br>
+Skype: ilkerdem<br>
+
+ilker.demirkol (at) entel.upc.edu<br>
+</p>
+
+<span style="font-style: italic;">
+</span>
+</div>
+
+<!-- main content -->
+<div style="margin-left: 330px; width: 847px;" id="main">
+<h1>
+about &nbsp;&nbsp;&nbsp; 
+<a class="nav" href="publications.html">publications</a>&nbsp;&nbsp;&nbsp; 
+<a class="nav" href="bio.html">bio</a>&nbsp;&nbsp;&nbsp; 
+<a class="nav" href="vita.html">vita</a>&nbsp;&nbsp;&nbsp; 
+<a class="nav" href="teaching.html">teaching</a>&nbsp;&nbsp;&nbsp; 
+<a class="nav" href="indstry.html">industry</a>&nbsp;&nbsp;&nbsp; 
+</h1>
+
+<table cellpadding="0" cellspacing="0" width="100%">
+  <tbody>
+    <tr>
+      <td style="padding-right: 25px;" valign="top" width="50%">
+      <div class="entry">My research objective ... </div>
+      <h6 style="padding-top: 10px;"><br>
+      </h6>
+      <div class="entry"> <a href="http://vis.stanford.edu/papers/timenets"><img style="border: 0px solid ; width: 120px; height: 64px;" alt="Wakeup probability measurements" title="Wakeup probability measurements" src="WISP.jpg"></a>
+      <div class="main"> A <strong><a href="http://vis.stanford.edu/papers/timenets">Wake-up Radio</a></strong>
+is a promising technology to enable energy efficient, rendezvousless
+communication. </div>
+      <div class="links"> Papers: <a href="http://vis.stanford.edu/papers/banking" title="Multi-Scale Banking to 45°. H. Bach, I. Demirkol, W. Heinzelman. IEEE Globecom 2010.">Globecom'10</a><br>
+      <a href="http://vis.stanford.edu/papers/banking" title="Multi-Scale Banking to 45°. J Heer, M Agrawala. IEEE InfoVis 2006.">Book
+Chapter:&nbsp;</a> </div>
+      </div>
+      <div class="entry"> <a href="http://vis.stanford.edu/papers/crowdsourcing-graphical-perception">
+      <img src="Jeffrey%20Heer_files/gpexp.png" border="0"></a>
+      <div class="main"> Our work using <strong><a href="http://mturk.com/">Mechanical Turk</a></strong> to reliably <strong><a href="http://vis.stanford.edu/papers/crowdsourcing-graphical-perception">crowdsource
+graphical perception studies</a></strong> is an <strong><a href="http://www.chi2010.org/">ACM CHI 2010 Best Paper Nominee</a></strong>.
+      </div>
+      </div>
+      <div class="entry"> <a href="http://vis.stanford.edu/papers/horizon"> <img src="Jeffrey%20Heer_files/horizon.gif" border="0"></a>
+      <div class="main"> Our research on the <strong><a href="http://vis.stanford.edu/papers/horizon"> perception of
+time-series visualizations</a></strong> received an <strong><a href="http://www.chi2009.org/">ACM CHI 2009 Best Paper Award</a></strong>.
+      </div>
+      </div>
+<!--
+
+	<div class="entry">
+
+	<a href="http://mags.acm.org/communications/200901/?pg=89"><img src="images/birthplace.gif" border="0"/></a>
+
+	<div class="main">
+
+	Our work on <strong><a href="http://mags.acm.org/communications/200901/?pg=89">social data analysis</a></strong> was featured in the January 2009 issue of <strong><a href="http://cacm.acm.org/">Communications of the ACM</a></strong>.
+
+	</div></div>
+
+-->
+      <div class="entry"> <a href="http://hci.stanford.edu/cs547/abstracts/08-09/090213-heer.html"><img src="Jeffrey%20Heer_files/coxcomb.gif" border="0"></a>
+      <div class="main"> I recently presented <strong><a href="http://hci.stanford.edu/cs547/abstracts/08-09/090213-heer.html">A
+Brief History of Data Visualization</a></strong> at the <a href="http://hci.stanford.edu/seminar">Stanford HCI seminar</a>. A <strong><a href="http://cobb.stanford.edu/courses/cs547/090306/090306-cs547-300.wmv">video</a></strong>
+is on the <a href="http://en.wikipedia.org/wiki/Internets">internets</a>,
+as is an earlier <strong><a href="http://www.uwtv.org/programs/displayevent.aspx?rID=24405">talk
+on interactive visualization</a></strong>. </div>
+      </div>
+<!--
+
+	<div class="entry">
+
+	<a href="http://oreilly.com/catalog/9780596157111/"><img src="images/bdata.gif" border="0"/></a>
+
+	<div class="main">
+
+	O'Reilly's <strong><a href="http://oreilly.com/catalog/9780596157111/">Beautiful Data</a></strong> contains 39 vignettes of data in action, including our work on social analysis of census data. <a href="http://www.amazon.com/dp/0596157118">Proceeds go to the <strong>Sunlight Foundation</strong> and <strong>Creative Commons</strong>.</a>
+
+	</div></div>
+
+-->
+      </td>
+      <td valign="top" width="50%">
+      <h6>selected projects</h6>
+      <div class="entry"> <a href="http://prefuse.org/"><img src="Jeffrey%20Heer_files/prefuse.gif"></a>
+      <div class="main">
+      <h3><a href="http://prefuse.org/">Interactive Visualization
+Toolkits</a></h3>
+Over 100,000 downloads!<br>
+      <div class="links"> Software: <b><a href="http://protovis.org/">protovis</a></b>,
+      <b><a href="http://flare.prefuse.org/">flare</a></b>, <b><a href="http://prefuse.org/">prefuse</a></b><br>
+Papers: <a href="http://vis.stanford.edu/papers/protovis" title="Protovis: A Graphical Toolkit for Visualization. M Bostock, J Heer. IEEE InfoVis 2009.">InfoVis'09</a>,
+      <a href="http://vis.stanford.edu/papers/infovis-design-patterns" title="Software Design Patterns for Information Visualization. J Heer, M Agrawala. IEEE InfoVis 2006.">InfoVis'06</a>,
+      <a href="http://vis.stanford.edu/papers/prefuse" title="Prefuse: A Toolkit for Interactive Information Visualization. J Heer, SK Card, JA Landay. ACM CHI 2005.">CHI'05</a><br>
+Video: <a href="http://www.cs.berkeley.edu/%7Ejheer/uist/prefuse.avi">DivX
+AVI (30M)</a>, <a href="http://vis.stanford.edu/files/prefuse.wmv">WMV
+(33M)</a> </div>
+      </div>
+      </div>
+      <div style="margin: 0pt; padding: 0pt; overflow: hidden; height: 5px;">&nbsp;</div>
+      <div class="entry"> <a href="http://vis.stanford.edu/papers/senseus"><img src="Jeffrey%20Heer_files/sense.gif"></a>
+      <div class="main">
+      <h3>Collaborative Visualization</h3>
+Social data analysis using interactive visualizations on the web.<br>
+      <div class="links"> Papers: <a href="http://vis.stanford.edu/papers/senseus" title="Voyagers and Voyeurs: Supporting Asynchronous Collaborative Visualization. J Heer, FB Vi&amp;ecute;gas, M Wattenberg. ACM CHI 2007.">CHI'07</a>,
+      <a href="http://vis.stanford.edu/papers/design-considerations-vast" title="Design Considerations for Collaborative Visual Analytics. J Heer, M Agrawala. IEEE VAST 2007.">VAST'07</a>,
+      <a href="http://vis.stanford.edu/papers/socializing-visualization" title="Socializing Visualization. J Heer. ACM CHI 2006 Workshop on Social Visualization.">CHI'06</a><br>
+Video: <a href="http://vis.berkeley.edu/papers/sense.us/video">Flash
+(20M)</a> </div>
+      </div>
+      </div>
+      <div class="entry"> <a href="http://vis.stanford.edu/papers/banking"><img src="Jeffrey%20Heer_files/banking.gif"></a>
+      <div class="main">
+      <h3>Multi-Scale Banking to 45°</h3>
+Perceptual optimization of the aspect <br>
+ratios of data graphics.<br>
+      <div class="links"> Papers: <a href="http://vis.stanford.edu/papers/banking" title="Multi-Scale Banking to 45°. J Heer, M Agrawala. IEEE InfoVis 2006.">InfoVis'06</a>
+      </div>
+      </div>
+      </div>
+      <div class="entry"> <a href="http://vis.stanford.edu/papers/animated-transitions"><img src="Jeffrey%20Heer_files/dynavis.gif"></a>
+      <div class="main">
+      <h3>Animation in Data Graphics</h3>
+Using animation to improve perception<br>
+of transitions in data graphics.<br>
+      <div class="links"> Papers: <a href="http://vis.stanford.edu/papers/animated-transitions" title="Animated Transitions in Statistical Data Graphics. J Heer, G Robertson. IEEE InfoVis 2007.">InfoVis'07</a><br>
+Video: <a href="http://vis.stanford.edu/files/AnimatedTransitions.mov">Quicktime
+(18M)</a> </div>
+      </div>
+      </div>
+      <div class="entry"> <a href="http://hci.stanford.edu/jheer/projects/vizster"><img src="Jeffrey%20Heer_files/vizster.gif"></a>
+      <div class="main">
+      <h3><a href="http://hci.stanford.edu/jheer/projects/vizster">Vizster:
+Visualizing Social Networks</a></h3>
+Visual exploration of networks such as Friendster, Facebook, and
+MySpace.<br>
+      <div class="links"> Papers: <a href="http://vis.stanford.edu/papers/vizster" title="Vizster: Visualizing Online Social Networks. J Heer, d boyd. IEEE InfoVis 2005.">InfoVis'05</a>,
+      <a href="http://vis.stanford.edu/papers/friendster-profiles" title="Profiles as Conversation: Networked Identity Performance on Friendster. d boyd, J Heer. HICSS 2006 Persistent Conversations Track.">HICSS'06</a><br>
+Video: <a href="http://www.youtube.com/watch?v=dcJtS-vjyMQ">Numb3rs
+(CBS TV)</a>, <a href="http://vis.stanford.edu/files/vizster.wmv">WMV</a>
+      </div>
+      </div>
+      </div>
+<!--
+
+	<div class="more"><a href="projects">See the complete list of projects ></a></div>
+
+	--></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+</body></html>
